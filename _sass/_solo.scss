@@ -1,12 +1,12 @@
 @import url(//fonts.googleapis.com/css?family=Inconsolata:400,700|Montserrat:700);
 
 html {
-  font: 16px/1.5 Inconsolata, sans-serif;
+  font: 16px/1.5 Geneva, sans-serif;
 }
 
 @media (min-width: 30rem) {
   html {
-    font-size: 20px;
+    font-size: 16px;
   }
 }
 
@@ -17,7 +17,7 @@ body {
 
 @media (min-width: 30rem) {
   body {
-    margin-top: 5rem;
+    margin-top: 2rem;
   }
 }
 
@@ -145,8 +145,9 @@ pre > code {
   padding: 0;
 }
 
+/* can make max-width 60rem if need be */
 .container {
-  max-width: 30rem;
+  max-width: 70rem;
   margin: 0 auto;
   padding: 0 1rem;
 }
