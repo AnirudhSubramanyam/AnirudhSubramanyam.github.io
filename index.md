@@ -7,7 +7,7 @@ layout: default
 ## About
 ---
 
-I'm a doctoral candidate working under the supervision of [Chrysanthos Gounaris](https://www.cmu.edu/cheme/people/faculty/chrysanthos-e-gounaris.html) at Carnegie Mellon University, in the department of Chemical Engineering. Earlier, I obtained my Bachelor's degree in Chemical Engineering from IIT Bombay. I'm interested in all areas of computational optimization. My doctoral work focuses on the development of theory and numerical methods for optimization under uncertainty, with emphasis on robust optimization techniques, and with applications in supply chain operations.
+I'm a doctoral candidate working under the supervision of [Chrysanthos Gounaris](https://www.cmu.edu/cheme/people/faculty/chrysanthos-e-gounaris.html) at Carnegie Mellon University, in the department of Chemical Engineering. Earlier, I obtained my Bachelor's degree in Chemical Engineering from IIT Bombay. I'm broadly interested in areas of computational optimization. My doctoral work focuses on the development of theory and numerical methods for optimization under uncertainty, with emphasis on robust optimization techniques, and with applications in supply chain operations.
 
 You can email me at `asubramanyam [at] cmu.edu`.
 
