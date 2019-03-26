@@ -11,7 +11,7 @@ I'm broadly interested in theory, algorithms and applications of computational o
 
 You can email me at `asubramanyam [at] anl.gov`.
 
-[[Webpage]](http://www.andrew.cmu.edu/user/asubram2/) [[Google Scholar]](https://scholar.google.com/citations?user=yDf5WlEAAAAJ&hl=en) [[CV]](http://www.andrew.cmu.edu/user/asubram2/cv.pdf)
+[[Webpage]](https://www.mcs.anl.gov/~subramanyam/) [[Google Scholar]](https://scholar.google.com/citations?user=yDf5WlEAAAAJ&hl=en) [[CV]](https://www.mcs.anl.gov/~subramanyam/subramanyam_cv.pdf)
 
 ## Publications
 ---
@@ -104,10 +104,10 @@ _**Robust optimization with decision-dependent uncertainty sets**_
 * <span style="color:green">(INFORMS 2018)</span> INFORMS Annual Meeting, Phoenix AZ (USA), Nov 2018.
 
 _**Robust optimization and its application to vehicle routing problems**_
-* `Invited seminar` Los Alamos National Laboratory, Center for Nonlinear Studies, Los Alamos NM (USA), Mar 2018.
-* `Invited seminar` Argonne National Laboratory, Mathematics and Computer Science division, Lemont IL (USA), Feb 2018.
-* `Invited seminar` Pennsylvania State University, Dynamics and Controls, State College PA (USA), Jan 2018.
-* `Invited seminar` Exxon Mobil Process Technology Department, Annandale NJ (USA), Dec 2017.
+* `Seminar` Los Alamos National Laboratory, Center for Nonlinear Studies, Los Alamos NM (USA), Mar 2018.
+* `Seminar` Argonne National Laboratory, Mathematics and Computer Science division, Lemont IL (USA), Feb 2018.
+* `Seminar` Pennsylvania State University, Dynamics and Controls, State College PA (USA), Jan 2018.
+* `Seminar` Exxon Mobil Process Technology Department, Annandale NJ (USA), Dec 2017.
 
 _**K-adaptability in two-stage robust optimization**_
 * `Invited talk` <span style="color:green">(ISMP 2018)</span> 23rd International Symposium on Mathematical Programming, Bordeaux (France), Jul 2018.
